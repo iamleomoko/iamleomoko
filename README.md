@@ -50,7 +50,6 @@
 -->
 
 [website]: https://leomoko.com
-<!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://www.instagram.com/iamleomoko/
 [youtube]: https://www.youtube.com/channel/UCr_3nmHZXOXlOM6ecTDOczg
 [instagram]: https://www.instagram.com/iamleomoko/
