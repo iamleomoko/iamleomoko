@@ -55,5 +55,5 @@
 [instagram]: https://www.instagram.com/iamleomoko/
 [linkedin]: https://www.linkedin.com/in/liyolo-moko-2a767a123/
 [facebook]: https://www.facebook.com/iamleomoko
-[unslash]: https://unsplash.com/@leomoko
+[unsplash]: https://unsplash.com/@leomoko
 [tiktok]: https://www.tiktok.com/@iamleomoko?lang=en
