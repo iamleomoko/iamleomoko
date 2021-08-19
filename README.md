@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamleomoko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamleomoko&screen_name=iamleomoko)
 
 
-## I'm a Visionary and I love to solving problems!!
+## I'm a Visionary and I love to solve problems!!
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -44,6 +44,7 @@
 
 <br />
 <br />
+-->
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
@@ -55,5 +56,3 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
--->
