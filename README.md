@@ -1,16 +1,17 @@
 ### Hi there, I'm Leo Moko 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=leomoko.com&style=for-the-badge&url=https%3A%2F%2Fleomoko.com)](https://leomoko.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamleomoko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamleomoko&screen_name=iamleomoko)
-<!-->
-## I'm a Husband, Father, Developer, and Teacher!!
+
+<!--
+## I'm a Visionary, I love solving problems!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
+---
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
