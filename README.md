@@ -16,7 +16,7 @@ My goal is to create an environment that inspires software teams to exceed beyon
 - ⚡ Fun fact: I love to draw and play guitar / drums
 --->
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [![website](./img/social-media/globe-light.svg)](https://leomoko.com/#gh-light-mode-only)
 [![website](./img/social-media/globe-dark.svg)](https://leomoko.com/#gh-dark-mode-only)
@@ -43,7 +43,7 @@ My goal is to create an environment that inspires software teams to exceed beyon
 [<img align="left" alt="leomoko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="leomoko | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="leomoko | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
-[<img align="left" alt="leomoko | Unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg" />][unsplash]
+[<img align="left" alt="leomoko | Unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg" />][unsplash] -->
 
 <br />
 
