@@ -1,7 +1,12 @@
 ### Hi there, I'm Leo Moko 👋
 
+I'm a visionary with a passion for philosophy, always looking for ways to challenge the status quo and make a meaningful impact.
+
+As a software engineer, I prioritize fundamentals and adapt to new technologies and methodologies. Recently, I've developed a fascination with team dynamics, company culture, and source code management, including decision logs and workflow. I believe that focusing on small, nitty-gritty activities can enable a team to think of enhancements rather than minor adjustments.
+
+My goal is to create an environment that inspires software teams to exceed beyond office perks, and I'm adept at communicating with both technical and non-technical stakeholders.\*
+
 [![Website](https://img.shields.io/website?label=leomoko.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://leomoko.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamleomoko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamleomoko&screen_name=iamleomoko)
 
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -10,7 +15,26 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 --->
+
 ### Connect with me:
+
+[![website](./img/social-media/globe-light.svg)](https://leomoko.com/#gh-light-mode-only)
+[![website](./img/social-media/globe-dark.svg)](https://leomoko.com/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/social-media/youtube-light.svg)](https://www.youtube.com/@iamleomoko#gh-light-mode-only)
+[![website](./img/social-media/youtube-dark.svg)](https://www.youtube.com/@iamleomoko#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/social-media/twitter-light.svg)](https://twitter.com/iamleomoko#gh-light-mode-only)
+[![website](./img/social-media/twitter-dark.svg)](https://twitter.com/iamleomoko#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/social-media/linkedin-light.svg)](https://www.linkedin.com/in/iamleomoko/#gh-light-mode-only)
+[![website](./img/social-media/linkedin-dark.svg)](https://www.linkedin.com/in/iamleomoko/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/social-media/instagram-light.svg)](https://www.instagram.com/iamleomoko#gh-light-mode-only)
+[![website](./img/social-media/instagram-dark.svg)](https://www.instagram.com/iamleomoko#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/social-media/facebook-light.svg)](https://www.facebook.com/iamleomoko#gh-light-mode-only)
+[![website](./img/social-media/facebook-dark.svg)](https://www.facebook.com/iamleomoko#gh-dark-mode-only)
 
 [<img align="left" alt="leomoko.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="leomoko | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,37 +45,16 @@
 [<img align="left" alt="leomoko | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 [<img align="left" alt="leomoko | Unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg" />][unsplash]
 
-<!---
 <br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
--->
 
-[website]: https://leomoko.com
-[twitter]: https://www.instagram.com/iamleomoko/
-[youtube]: https://www.youtube.com/channel/UCr_3nmHZXOXlOM6ecTDOczg
+[website]: https://leomoko.com/
+[twitter]: https://twitter.com/iamleomoko
+[youtube]: https://www.youtube.com/@iamleomoko
 [instagram]: https://www.instagram.com/iamleomoko/
-[linkedin]: https://www.linkedin.com/in/liyolo-moko-2a767a123/
+[linkedin]: https://www.linkedin.com/in/iamleomoko/
 [facebook]: https://www.facebook.com/iamleomoko
 [unsplash]: https://unsplash.com/@leomoko
 [tiktok]: https://www.tiktok.com/@iamleomoko?lang=en
