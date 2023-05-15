@@ -4,7 +4,7 @@ I'm a visionary with a passion for philosophy, always looking for ways to challe
 
 As a software engineer, I prioritize fundamentals and adapt to new technologies and methodologies. Recently, I've developed a fascination with team dynamics, company culture, and source code management, including decision logs and workflow. I believe that focusing on small, nitty-gritty activities can enable a team to think of enhancements rather than minor adjustments.
 
-My goal is to create an environment that inspires software teams to exceed beyond office perks, and I'm adept at communicating with both technical and non-technical stakeholders.\*
+My goal is to create an environment that inspires software teams to exceed beyond office perks, and I'm adept at communicating with both technical and non-technical stakeholders.
 
 [![Website](https://img.shields.io/website?label=leomoko.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://leomoko.com)
 
