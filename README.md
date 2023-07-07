@@ -1,8 +1,10 @@
 ### Hi there, I'm Leo Moko 👋
 
-I'm a visionary with a passion for philosophy, always looking for ways to challenge the status quo and make a meaningful impact.
+Hello and thank you for visiting my profile! I'm a visionary software engineer with a strong interest in philosophy and a strong drive to question the status quo. With a strong background in software engineering, I am continually adapting to new technologies and processes in order to stay ahead of the competition.
 
-As a software engineer, I prioritize fundamentals and adapt to new technologies and methodologies. Recently, I've developed a fascination with team dynamics, company culture, and source code management, including decision logs and workflow. I believe that focusing on small, nitty-gritty activities can enable a team to think of enhancements rather than minor adjustments.
+My goal is to create an environment that drives software teams to exceed their potential, going beyond office benefits. I excel at communicating effectively with both technical and non-technical stakeholders, ensuring that everyone is on the same page and working toward a common goal.
+
+Furthermore, I am a social entrepreneur as well as a software engineer. I am certain that technology holds the key to addressing some of the world's most serious issues. I am dedicated to developing goods that make a substantial and beneficial influence in society using my skills and expertise.
 
 My goal is to create an environment that inspires software teams to exceed beyond office perks, and I'm adept at communicating with both technical and non-technical stakeholders.
 
