@@ -1,13 +1,16 @@
 ### Hi there, I'm Leo Moko 👋
 
-Hello and thank you for visiting my profile! I'm a visionary software engineer with a strong interest in philosophy and a strong drive to question the status quo. With a strong background in software engineering, I am continually adapting to new technologies and processes in order to stay ahead of the competition.
+Hello and thank you for taking the time to look at my profile! I'm the CEO and founder of Firsteleven Inc., which is currently developing a unique product called Heavy App. I'm a visionary with a passion for philosophy. 
 
-My goal is to create an environment that drives software teams to exceed their potential, going beyond office benefits. I excel at communicating effectively with both technical and non-technical stakeholders, ensuring that everyone is on the same page and working toward a common goal.
+As a software engineer, I prioritize fundamentals and adapt to new technologies and methodologies
 
-Furthermore, I am a social entrepreneur as well as a software engineer. I am certain that technology holds the key to addressing some of the world's most serious issues. I am dedicated to developing goods that make a substantial and beneficial influence in society using my skills and expertise.
+Beyond office benefits, my goal is to establish an environment that motivates software teams to surpass their potential. I am skilled at communicating effectively with both technical and non-technical stakeholders, ensuring that everyone is on the same page and working toward the same goal.
 
-My goal is to create an environment that inspires software teams to exceed beyond office perks, and I'm adept at communicating with both technical and non-technical stakeholders.
+I'm excited about contributing to the open-source community in addition to my work at Firsteleven Inc. You may find me actively contributing to projects on the following sites in my leisure time: https://www.vision.firsteleven.co.za and https://www.idea.firsteleven.co.za.
 
+In addition, I am a social entrepreneur. I am certain that technology holds the answer to solving some of the world's most pressing problems. With my abilities and expertise, I am committed to creating products that have a significant and positive impact on society.
+
+Let's connect and look for ways to work together on worthwhile projects. I'm excited to work with you to make a difference!
 [![Website](https://img.shields.io/website?label=leomoko.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://leomoko.com)
 
 <!--
