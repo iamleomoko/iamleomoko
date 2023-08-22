@@ -1,16 +1,18 @@
 ### Hi there, I'm Leo Moko 👋
 
-Hello and thank you for taking the time to look at my profile! I'm the CEO and founder of Firsteleven Inc., which is currently developing a unique product called Heavy App. I'm a visionary with a passion for philosophy. 
+Hello and thank you for looking at my profile! I'm the founder of Firsteleven Inc., which is currently developing an unique app called Heavy.
 
-As a software engineer, I prioritize fundamentals and adapt to new technologies and methodologies
+As a leader, my goal is to create an environment in which people can appreciate their individuality while working together to achieve goals that go beyond monetary compensation.
+As a solutions architect, I concentrate on basics while embracing new technologies and approaches. I feel that concentrating on little details allows a team to consider enhancements rather than minor tweaks, and I am comfortable talking with both technical and non-technical stakeholders.   
 
-Beyond office benefits, my goal is to establish an environment that motivates software teams to surpass their potential. I am skilled at communicating effectively with both technical and non-technical stakeholders, ensuring that everyone is on the same page and working toward the same goal.
+In addition to my responsibilities at Firsteleven Inc., I am excited to contribute to the open-source communities. In my spare time, you can find me contributing to the websites https://www.vision.firsteleven.co.za and https://www.idea.firsteleven.co.za.
 
-I'm excited about contributing to the open-source community in addition to my work at Firsteleven Inc. You may find me actively contributing to projects on the following sites in my leisure time: https://www.vision.firsteleven.co.za and https://www.idea.firsteleven.co.za.
+In my spare time, I love a range of artistic pursuits. I find solace in books, exploring new worlds through literature. While painting on canvases, I let my creative soul run free, bringing my thoughts and emotions to life. In addition, I use a camera to capture fleeting moments of beauty in order to freeze time and preserve memories.
 
-In addition, I am a social entrepreneur. I am certain that technology holds the answer to solving some of the world's most pressing problems. With my abilities and expertise, I am committed to creating products that have a significant and positive impact on society.
+In addition, I am a social entrepreneur. I am optimistic that technology will help us solve some of the world's most pressing problems. With my abilities and knowledge, I am committed to creating products that have a significant and positive impact on society.
 
-Let's connect and look for ways to work together on worthwhile projects. I'm excited to work with you to make a difference!
+Let's connect and look for ways to work together on important subjects. I'm excited to work with you to make a difference!
+
 [![Website](https://img.shields.io/website?label=leomoko.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://leomoko.com)
 
 <!--
