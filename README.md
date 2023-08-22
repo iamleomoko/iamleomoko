@@ -1,6 +1,6 @@
-### Hi there, I'm Leo Moko 👋
+### Hello and thank you for looking at my profile!, I'm Leo Moko 👋
 
-Hello and thank you for looking at my profile! I'm the founder of Firsteleven Inc., which is currently developing an unique app called Heavy.
+Founder of Firsteleven Inc., which is currently developing an unique app called Heavy.
 
 As a leader, my goal is to create an environment in which people can appreciate their individuality while working together to achieve goals that go beyond monetary compensation.
 As a solutions architect, I concentrate on basics while embracing new technologies and approaches. I feel that concentrating on little details allows a team to consider enhancements rather than minor tweaks, and I am comfortable talking with both technical and non-technical stakeholders.   
