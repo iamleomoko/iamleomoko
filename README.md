@@ -1,5 +1,5 @@
 ### Hello and thank you for looking at my profile!, I'm Leo Moko 👋
-
+<!--
 Founder of Firsteleven Inc., which is currently developing an unique app called Heavy.
 
 As a leader, my goal is to create an environment in which people can appreciate their individuality while working together to achieve goals that go beyond monetary compensation.
@@ -15,7 +15,7 @@ Let's connect and look for ways to work together on important subjects. I'm exci
 
 [![Website](https://img.shields.io/website?label=leomoko.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://leomoko.com)
 
-<!--
+
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
