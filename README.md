@@ -1,7 +1,4 @@
 ### Hello and thank you for looking at my profile!, I'm Leo Moko 👋
-I'm a visionary with a passion for philosophy. As a software
-engineer, I prioritize fundamentals and adapt to new technologies and
-methodologies
 
 <!--
 Founder of Firsteleven Inc., which is currently developing an unique app called Heavy.
